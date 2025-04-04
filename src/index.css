@@ -77,7 +77,10 @@
   }
 
   .button-primary {
-    @apply bg-navy hover:bg-navy-light text-white font-semibold py-2 px-5 rounded-md transition-all duration-300 inline-flex items-center gap-2;
+    /* @apply bg-navy hover:bg-navy-light text-white font-semibold py-2 px-5 rounded-md transition-all duration-300 inline-flex items-center gap-2;
+     */
+
+     @apply bg-white border border-navy text-navy hover:bg-navy/5 font-semibold py-2 px-5 rounded-md transition-all duration-300 inline-flex items-center gap-2;
   }
   
   .button-secondary {
