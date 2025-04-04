@@ -23,11 +23,11 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <h4 className="font-medium text-navy">Email</h4>
-                  <span className="text-gray-600">muhammad.sohaib@example.com</span>
+                  <span className="text-gray-600">sohaibmohammad46@gmail.com</span>
                 </div>
               </a>
               
-              <a href="https://linkedin.com/in/" target="_blank" rel="noopener noreferrer" className="contact-link">
+              <a href="https://www.linkedin.com/in/its-sohaib?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " target="_blank" rel="noopener noreferrer" className="contact-link">
                 <div className="h-12 w-12 rounded-full bg-navy/10 flex items-center justify-center">
                   <Linkedin className="text-navy" size={20} />
                 </div>
