@@ -6,7 +6,7 @@ const ExperienceSection = () => {
     {
       title: "Robotics Club Lead",
       organization: "NERC 2025 Project",
-      period: "2023 - Present",
+      period: "2024 - Present",
       description: "Leading a team of 15 engineering students in developing an autonomous fruit picking robot for the National Engineering Robotics Contest. Managing project timeline, technical development, and resource allocation.",
       icon: Users,
       category: "leadership"
@@ -14,7 +14,7 @@ const ExperienceSection = () => {
     {
       title: "Mechanical Head",
       organization: "Formula Student",
-      period: "2022 - 2023",
+      period: "2022 - Present",
       description: "Supervised the mechanical design and fabrication of critical powertrain components for the university's Formula Student race car. Led a team of 8 mechanical engineers through design, analysis, and manufacturing phases.",
       icon: Briefcase,
       category: "leadership"
@@ -23,7 +23,7 @@ const ExperienceSection = () => {
     {
       title: "Member",
       organization: "SMEP Society",
-      period: "2021 - Present",
+      period: "2025 - Present",
       description: "Active member of the Society of Mechanical Engineers and Practitioners, participating in technical discussions, collaborative projects, and community outreach programs related to sustainable engineering.",
       icon: Users,
       category: "membership"
