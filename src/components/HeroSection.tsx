@@ -18,7 +18,7 @@ const HeroSection = () => {
             Mechanical Engineer | Robotics Enthusiast | Innovator
           </h2>
           <p className="text-lg text-gray-700 mb-8 border-l-4 border-teal pl-4 italic">
-            Revolutionizing industrial robotics through intelligent systems and sustainable engineering solutions.
+          Hi, I am Mechanical Engineering student, love to design, simulate, and bring to life advanced robotic systems — with an integration of cutting-edge AI.
           </p>
           <div className="flex flex-wrap gap-4 relative z-10">
             <a 
