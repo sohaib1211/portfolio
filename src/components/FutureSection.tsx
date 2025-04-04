@@ -76,6 +76,10 @@ const FutureSection = () => {
                 <h4 className="font-medium text-navy mb-2">AI-Enhanced Mechanical Design</h4>
                 <p className="text-sm text-gray-600">Using machine learning to optimize mechanical components for performance, weight, and manufacturability.</p>
               </div>
+              <div className="bg-white/80 backdrop-blur-sm rounded-lg p-4">
+                <h4 className="font-medium text-navy mb-2">AI and Quantum integration in Robotics</h4>
+                <p className="text-sm text-gray-600">I am interested in the intersection of quantum computing, artificial intelligence, and robotics. My focus is on understanding how quantum processors could support learning and decision-making in autonomous robotic systems. Quantum robotics offers a promising direction for advancing intelligent machine behavior.</p>
+              </div>
             </div>
           </div>
         </div>

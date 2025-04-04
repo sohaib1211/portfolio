@@ -31,6 +31,9 @@ const SkillsSection = () => {
     { name: "ROS 2 Developer", status: "in progress", year: "2024" },
     { name: "Machine Learning Specialization", status: "planned", year: "2024" },
     { name: "Control Systems Professional", status: "planned", year: "2025" },
+    { name: "Google Project Mangement - Coursera", status: "completed", year: "2025" },
+    { name: "Uniliver - Xsell Program", status: "completed", year: "2024" },
+    { name: "Emotional Intelligence - Source Code Academia", status: "completed", year: "2024" },
   ];
 
   return (
