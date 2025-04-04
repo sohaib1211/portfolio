@@ -52,8 +52,8 @@ const ProjectsSection = () => {
     {
       id: 6,
       title: "Pipe-Climbing Robot",
-      description: "Engineered an autonomous robot capable of climbing and inspecting pipelines of various diameters, with integrated NDT sensors for defect detection.",
-      technologies: ["Robotics", "NDT", "SolidWorks", "Embedded Systems", "Sensor Fusion"],
+      description: "Engineered an autonomous robot capable of climbing and inspecting pipelines of various diameters, with integrated Computer-vision base AI Algorithms for defect detection.",
+      technologies: ["Robotics", "Opencv", "SolidWorks", "Embedded Systems", "Sensor Fusion"],
       category: "robotics"
     },
     {

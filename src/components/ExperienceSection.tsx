@@ -19,14 +19,7 @@ const ExperienceSection = () => {
       icon: Briefcase,
       category: "leadership"
     },
-    {
-      title: "IMS Coordinator",
-      organization: "GIKI",
-      period: "2022 - Present",
-      description: "Coordinating industry-academia partnerships and organizing technical workshops focused on mechanical engineering and robotics applications for undergraduate students.",
-      icon: Star,
-      category: "coordination"
-    },
+    
     {
       title: "Member",
       organization: "SMEP Society",
@@ -117,9 +110,9 @@ const ExperienceSection = () => {
               
               <div className="grid grid-cols-2 gap-4">
                 <div className="bg-white/10 backdrop-blur-sm p-4 rounded-lg">
-                  <h5 className="font-medium text-white mb-2">Bonsai & Exotic Birds</h5>
+                  <h5 className="font-medium text-white mb-2">Bonsai </h5>
                   <p className="text-sm text-gray-200">
-                    Cultivating miniature trees and studying avian behavior patterns as hobbies that develop patience and attention to detail.
+                    Cultivating miniature trees patterns as hobbies that develop patience and attention to detail.
                   </p>
                 </div>
                 
